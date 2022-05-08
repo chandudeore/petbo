@@ -1,0 +1,44 @@
+{
+  "petbo": [
+    {
+      "serviceName": "Chandrkant Pet Service Center",
+      "city": "Malegaon",
+      "address": "College Road,Malegaon",
+      "capacityOfPet": "20",
+      "cost": "500",
+      "verified": "Yes",
+      "rating": "4.1",
+      "id": 1
+    },
+    {
+      "serviceName": "Rahul Pet Service Center",
+      "city": "Nashik",
+      "address": "Gangapur Road,Nashik",
+      "capacityOfPet": "30",
+      "cost": "400",
+      "verified": "Yes",
+      "rating": "3.9",
+      "id": 2
+    },
+    {
+      "serviceName": "Vaibhav Pet Service Centre",
+      "city": "Pune ",
+      "address": "Shivaji Nagar,Pune",
+      "capacityOfPet": "40",
+      "cost": "700",
+      "verified": "Yes",
+      "rating": "4.9",
+      "id": 3
+    },
+    {
+      "serviceName": "Shubham Pet Service Center",
+      "city": "Ahmadnagar",
+      "address": "Shirdi Road,Ahmadnagar",
+      "capacityOfPet": "30",
+      "cost": "500",
+      "verified": "No",
+      "rating": "4",
+      "id": 4
+    }
+  ]
+}
